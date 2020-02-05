@@ -6,13 +6,13 @@ HeaderFiles#1=/Users/michael/STM32CubeIDE/workspace_1.1.0/LegoBank/Core/Inc/stm3
 HeaderFiles#2=/Users/michael/STM32CubeIDE/workspace_1.1.0/LegoBank/Core/Inc/main.h
 HeaderFolderListSize=1
 HeaderPath#0=/Users/michael/STM32CubeIDE/workspace_1.1.0/LegoBank/Core/Inc
-HeaderFiles=;
 SourceFileListSize=3
 SourceFiles#0=/Users/michael/STM32CubeIDE/workspace_1.1.0/LegoBank/Core/Src/stm32f0xx_it.c
 SourceFiles#1=/Users/michael/STM32CubeIDE/workspace_1.1.0/LegoBank/Core/Src/stm32f0xx_hal_msp.c
 SourceFiles#2=/Users/michael/STM32CubeIDE/workspace_1.1.0/LegoBank/Core/Src/main.c
 SourceFolderListSize=1
 SourcePath#0=/Users/michael/STM32CubeIDE/workspace_1.1.0/LegoBank/Core/Src
+HeaderFiles=;
 SourceFiles=;
 
 [PreviousLibFiles]
